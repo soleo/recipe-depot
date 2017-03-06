@@ -8,8 +8,8 @@ This is a very versatile recipe. My mother used to cook fried rice for our famil
 
 - 1.5 Cups of White Rice (Sushi Rice Preferred, Jasmine Rice acceptable)
 - 2-3 Pieces of Mushroom (I used Shitake Mushroom)
-- Half Yellow Pepper
-- Half Red Pepper
+- Half Yellow Bell Pepper
+- Half Red Bell Pepper
 - 1 Fish Sausage
 - 1 Piece of Smoked Five Spice Tofu
 - 2 Eggs
@@ -44,7 +44,7 @@ This is a very versatile recipe. My mother used to cook fried rice for our famil
 
 - Cut smoked tofu into small squares just like the vegetables.
 
-### Cooking
+### Cooking Fried Rice
 
 - In a large pan (nonstick, if you have one. If you have wok, even better), add 2 teaspoons of oil (Sunflower oil preferred) on medium high until hot. Add the diced mushroom, tofu, red and yellow pepper, cook 2-3 minutes, add fish sausage and salt spiced radish. Continue cook for 1 minutes or until it looks golden brown. 
 
